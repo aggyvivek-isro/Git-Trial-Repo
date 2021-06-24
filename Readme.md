@@ -1,1 +1,3 @@
-THis is a readme file for my Git trial.
+# Demo
+
+This is a readme file for my Git trial.
